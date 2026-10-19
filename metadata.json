@@ -1,0 +1,7 @@
+{
+  "name": "Navegando la Física: Movimiento en el Mar",
+  "description": "Videojuego educativo interactivo para aprender cinemática: posición, trayectoria, distancia recorrida, desplazamiento y sistemas de referencia con simulación naval en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
